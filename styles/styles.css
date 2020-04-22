@@ -9,13 +9,15 @@ class miclase1{
 .btn {
 padding:0.5rem;
 background: #C0B31C;
-color: blue;
+color: black;
 border-radius: 8px;
-transition: 0.3s;
+display:inline-block;
+transition:0.3s;
 
 }
 
 .btn:hover{
-transform:scale (1.2);
+    	transform: scale (1.2);
+	background:#778899;
 }
 
