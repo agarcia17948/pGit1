@@ -1,7 +1,15 @@
 *{
-background: #112233;
+background: #aabbdd;
 }
 
 class miclase1{
  text: #445588;
+}
+
+.btn {
+padding:0.5rem;
+background: #C0B31C;
+color: blue;
+border-radius: 8px;
+
 }
