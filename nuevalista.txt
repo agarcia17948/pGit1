@@ -1,0 +1,53 @@
+commit e85dd790f5a8747bcd4b92a550624955a4d025e5
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Sat Jan 23 17:46:42 2021 -0600
+
+    nuevo grupo de botones nuevos y pie de pagina
+
+commit 9ceef9a2434309302ee11d2110bcc0e50d993946
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Sat Jan 23 17:24:20 2021 -0600
+
+    cambio de repo local
+
+commit 606b83e51dea472154a990adfb6938615498182f
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 17:10:57 2020 -0700
+
+    area de temas
+
+commit 648a0ff05a08f131e7c36fac40a5d67269321bb4
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 15:43:26 2020 -0700
+
+    tercero en rama2
+
+commit e0acffec85841b8bd6b2ec696f66bb97b5a377d1
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 15:38:36 2020 -0700
+
+    commit2 rama2
+
+commit 5c819bb394e96f614f19d0b63b0244ad8a47d401
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 15:24:03 2020 -0700
+
+    primero comit rama 2
+
+commit a58aee68f12ace3364aa53cb77390d9b5b42ee5e
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 15:09:50 2020 -0700
+
+    botones opciones
+
+commit d854df0f2f2027359b30f866ecb12177c853b517
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 14:57:25 2020 -0700
+
+    agregados
+
+commit 6183f5b4cb7562713828a5c9de23f804a77cc300
+Author: agarcia17948 <2321399700101@ingenieria.usac.edu.gt>
+Date:   Wed Apr 22 14:07:27 2020 -0700
+
+    iniciando, primer commit
